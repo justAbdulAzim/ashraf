@@ -1,0 +1,189 @@
+* {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.row1 {
+	background-color: #91095b;
+	text-align: center;
+}
+
+h1 {
+	background: #fff;
+	display: inline-block;
+	margin: 10px auto;
+	padding: 0 5px;
+	color: #91095b;
+	border-radius: 4px;
+	text-transform: capitalize;
+}
+
+.row2 {
+	background: #000;
+}
+
+
+.row2 ul li {
+	display: inline-block;
+	margin: 5px 0;
+	margin: 2px 8px;
+
+}
+
+
+.row2 ul li a{
+	background: #fff;
+	border-radius: 2px;
+	font-size: 13px;
+	padding: 0px 20px;
+	text-decoration: none;
+	color: #000;
+	transition: .7s;
+}
+.row2 ul li a:hover{
+	background: #333;
+}
+.row3 {
+	height: 600px;
+	width: 1300;
+	background: #333;
+	position: relative;
+}
+
+.sidebar{
+	background: darkblue;
+	float: left;
+	width: 120px;
+	height: 600px;
+	margin-left: 5px;
+	text-align: center;
+}
+
+.sidebar ul li {
+	margin: 15px 2px;
+
+
+}
+
+.sidebar ul li a {
+	background: #fff;
+	padding: 0 10px;
+}
+
+
+.a {
+	position: absolute;
+	top: 100px;
+	left: 250px;
+	float: left;
+	background: blue;
+	height: 100px;
+	width: 250px;
+}
+
+.b {
+	position: absolute;
+	top: 100px;
+	left: 510px;
+	float: left;
+	background: #940413;
+	height: 100px;
+	width: 200px;
+	margin-left: 20px;
+
+}
+
+.c {
+	position: absolute;
+	top: 100px;
+	left: 750px;
+	float: left;
+	border: 2px #000 solid;
+	background: #fff;
+	height: 120px;
+	width: 230px;
+}
+
+.d {
+	position: absolute;
+	top: 100px;
+	left: 1050px;
+	float: left;
+	border: 2px #000 solid;
+	background: #fff;
+	height: 100px;
+	width: 300px;
+}
+
+.e{
+	position: absolute;
+	float: left;
+	background: #6e310b;
+	height: 130px;
+	width: 120px;
+	left: 250px;
+	top: 220px;
+}
+
+.f{
+	position: absolute;
+	top: 220px;
+	left: 400px;
+	float: left;
+	background: skyblue;
+	height: 200px;
+	width: 180px;
+}
+
+.g{
+	position: absolute;
+	top: 250px;
+	left: 600px;
+	float: left;
+	background: skyblue;
+	height: 110px;
+	width: 300px;
+}
+
+.h{
+	position: absolute;
+	top: 250px;
+	left: 950px;
+	float: left;
+	background: red;
+	height: 150px;
+	width: 200px;	
+}
+
+.i{
+	position: absolute;
+	top: 370px;
+	left: 230px;
+	float: left;
+	background: darkblue;
+	height: 150px;
+	width: 150px;
+}
+
+.k {
+	position: absolute;
+	top: 370px;
+	left: 630px;
+	float: left;
+	background: #6e310b;
+	height: 150px;
+	width: 250px;
+}
+
+.j{
+	position: absolute;
+	top: 450px;
+	left: 900px;
+	float: left;
+	background: skyblue;
+	height: 110px;
+	width: 300px;
+}
+
+/*  #*/
